@@ -1,4 +1,4 @@
 package exercises.Static;
 
-public class Badget {
+public class Badge {
 }
